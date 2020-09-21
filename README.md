@@ -31,7 +31,15 @@ Sample API response:
 
 * Add a Create form that allows a User to create a new movie. The new movie should persist if the page is refreshed.
 
-* 
+* (BONUS) There are a few mistakes:
+
+    - There is a TV show in a movie app that needs to be deleted with a DELETE request.
+    - There is also a beloved movie that has the wrong poster associated with the record. We need to update the poster with a PATCH request.
+
+
+#### The objective of this lab to get the features to work. 
+#### Create your wireframe, use your best judgement, and use the user stories as your guide
+---
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
